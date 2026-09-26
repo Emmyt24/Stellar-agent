@@ -215,7 +215,5 @@ MIT
 <!-- handsoff-issue-618 -->
 - #618: [Security] Add Content Security Policy headers configuration in dashboard/server.ts
 
-<!-- handsoff-issue-538 -->
-- #538: [Feature] Add batch job lookup get_jobs in agentic-commerce
-<!-- handsoff-issue-538 -->
-- #538: [Feature] Add batch job lookup get_jobs in agentic-commerce (follow-up)
+<!-- handsoff-issue-656 -->
+- #656: feat(sdk): implement Server-Sent Events streaming for long-running job results
